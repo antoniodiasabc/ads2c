@@ -1,2 +1,3 @@
 # ads2c
-preparacao para AC1
+preparacao para 
+Antonio de Oliveira Dias
